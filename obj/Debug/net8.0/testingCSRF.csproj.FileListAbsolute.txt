@@ -28,3 +28,4 @@ C:\Users\Abdul Rafay\Desktop\Asp apps\testingCSRF\testingCSRF\obj\Debug\net8.0\r
 C:\Users\Abdul Rafay\Desktop\Asp apps\testingCSRF\testingCSRF\obj\Debug\net8.0\testingCSRF.pdb
 C:\Users\Abdul Rafay\Desktop\Asp apps\testingCSRF\testingCSRF\obj\Debug\net8.0\testingCSRF.genruntimeconfig.cache
 C:\Users\Abdul Rafay\Desktop\Asp apps\testingCSRF\testingCSRF\obj\Debug\net8.0\ref\testingCSRF.dll
+C:\Users\Abdul Rafay\Desktop\Asp apps\testingCSRF\testingCSRF\obj\Debug\net8.0\testingCSRF.sourcelink.json

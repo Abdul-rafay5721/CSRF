@@ -1,0 +1,17 @@
+﻿@model UserViewModel
+
+<h2>Login</h2>
+
+<form method="post" action="/Account/Login">
+    <!-- MISSING @Html.AntiForgeryToken() -->
+    <input name="Email" />
+    <input name="Password" type="password" />
+    <button type="submit">Login</button>
+</form>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<!-- Inline JS with unsafe DOM access -->
+<script>
+    document.getElementById("Email").innerHTML = location.href;
+</script>
